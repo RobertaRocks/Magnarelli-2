@@ -452,7 +452,7 @@ section{
     bottom: 50%;
     color: var(--ruggine);
     height: 1.5em;
-    margin: -45px;
+    margin: -25px;
     transform: rotate(
 -90deg
 );
@@ -469,7 +469,7 @@ section{
     bottom: 50%;
     height: 1.5em;
     color: var(--ruggine);
-    margin: -45px;
+    margin: -25px;
     transform: rotate(
 90deg
 );
