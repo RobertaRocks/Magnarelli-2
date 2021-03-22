@@ -49,6 +49,7 @@ padding-left:40px;
 background-image: url("hero-E8DBC8.jpg");
 background-size:cover;
 background-repeat: no-repeat;
+
 }
 
 .logo-header {
@@ -482,5 +483,48 @@ section{
      /* Widget Side Names End */       
 
  /* WIDGETS END*/ 
-        
-           
+
+
+.illustration-main-container {
+margin:20px;
+
+}
+.illustration-container {
+display: block;
+margin: 0 auto;
+text-align:center;
+background-size:cover;
+background-position: center; 
+background-repeat: no-repeat;
+background-size: 150px;
+width: 300px;
+height: 300px;
+}
+
+.pic-1 {
+background-image: url("1.jpeg");
+}
+
+.pic-2 {
+background-image: url("2.jpeg");
+
+}
+
+.pic-3 {
+background-image: url("3.jpeg");
+}
+
+.pic-4 {
+background-image: url("4.jpeg");
+}
+
+
+.highlight {
+
+text-decoration: underline wavy var(--verde);
+
+}
+
+.opacity {
+opacity: 70%;
+}
